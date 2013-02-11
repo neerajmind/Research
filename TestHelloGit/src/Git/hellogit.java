@@ -10,10 +10,8 @@ public class hellogit {
 		System.out.println("some git stuff");
 		System.out.println("added from local workspace npp");
 		System.out.println("added from eclipse");
-		System.out.println("added from eclipse perconf (1st eclipse)");
-		
-		
-		
+		System.out.println("added from eclipse perconf ws(1st eclipse)");
+		System.out.println("added from test eclipse ws (2nd eclipse)");
 	}
 
 }
