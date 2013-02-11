@@ -12,6 +12,7 @@ public class hellogit {
 		System.out.println("added from eclipse");
 		System.out.println("added from eclipse perconf ws(1st eclipse)");
 		System.out.println("added from test eclipse ws (2nd eclipse)");
+		System.out.println("for one more test 2nd eclipse");
 	}
 
 }
